@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Shelbin\\Desktop\\ProcessHubAngular\\ProcessHub-Angular\\ProcessHub.csproj",
+      "projectUniqueName": "C:\\Users\\Shelbin\\Desktop\\ProcessHubAngular\\ProcessHub-Angular\\ProcessHub.csproj",
       "projectName": "ProcessHub",
-      "projectPath": "c:\\Users\\Shelbin\\Desktop\\ProcessHubAngular\\ProcessHub-Angular\\ProcessHub.csproj",
+      "projectPath": "C:\\Users\\Shelbin\\Desktop\\ProcessHubAngular\\ProcessHub-Angular\\ProcessHub.csproj",
       "packagesPath": "C:\\Users\\Shelbin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Shelbin\\Desktop\\ProcessHubAngular\\ProcessHub-Angular\\obj\\",
+      "outputPath": "C:\\Users\\Shelbin\\Desktop\\ProcessHubAngular\\ProcessHub-Angular\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
