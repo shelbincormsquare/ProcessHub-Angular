@@ -59,7 +59,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "92f0e0ad762eb06f3cbe"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "f1bcd097e55bc052dca4"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
@@ -9342,7 +9342,7 @@ module.exports = "<div class='main-nav'>\r\n    <div class='navbar navbar-invers
 /* 35 */
 /***/ (function(module, exports) {
 
-module.exports = "<p>\n  vehicle-hdkjsahdk jhddd\n</p>\n";
+module.exports = "<p>\r\n  vehicle-module works\r\n</p>\r\n";
 
 /***/ }),
 /* 36 */

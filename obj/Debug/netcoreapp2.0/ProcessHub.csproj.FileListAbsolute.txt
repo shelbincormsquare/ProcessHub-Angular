@@ -18,3 +18,13 @@ C:\Users\Shelbin\Desktop\ProcessHubAngular\ProcessHub-Angular\obj\Debug\netcorea
 C:\Users\Shelbin\Desktop\ProcessHubAngular\ProcessHub-Angular\obj\Debug\netcoreapp2.0\ProcessHub.AssemblyInfo.cs
 C:\Users\Shelbin\Desktop\ProcessHubAngular\ProcessHub-Angular\obj\Debug\netcoreapp2.0\ProcessHub.dll
 C:\Users\Shelbin\Desktop\ProcessHubAngular\ProcessHub-Angular\obj\Debug\netcoreapp2.0\ProcessHub.pdb
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\bin\Debug\netcoreapp2.0\ProcessHub.deps.json
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\bin\Debug\netcoreapp2.0\ProcessHub.runtimeconfig.json
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\bin\Debug\netcoreapp2.0\ProcessHub.runtimeconfig.dev.json
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\bin\Debug\netcoreapp2.0\ProcessHub.dll
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\bin\Debug\netcoreapp2.0\ProcessHub.pdb
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\obj\Debug\netcoreapp2.0\ProcessHub.csproj.CoreCompileInputs.cache
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\obj\Debug\netcoreapp2.0\ProcessHub.AssemblyInfoInputs.cache
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\obj\Debug\netcoreapp2.0\ProcessHub.AssemblyInfo.cs
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\obj\Debug\netcoreapp2.0\ProcessHub.dll
+C:\Users\Shelbin\Desktop\ProcessHub-Angular\obj\Debug\netcoreapp2.0\ProcessHub.pdb
